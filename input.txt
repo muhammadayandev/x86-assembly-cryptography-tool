@@ -1,0 +1,3 @@
+FAST-NUCES Karachi Campus - COAL Lab Project Fall 2026.
+Section BCS-3C, Group G1: Muhammad Ayan (P250600) and Partham Kumar (K250626).
+Testing Classical Ciphers: HELLO WORLD 123! Attack at Dawn.
